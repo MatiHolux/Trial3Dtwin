@@ -1,0 +1,4 @@
+env_3d/
+datos/
+*.ply
+__pycache__/
